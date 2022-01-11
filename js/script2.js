@@ -1,4 +1,4 @@
-// task2
+// task2 вариант с var
 
 var text = "Hello JS";
 console.log(text);
